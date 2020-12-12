@@ -3,7 +3,7 @@
 
 ![유니티로고](https://user-images.githubusercontent.com/62977669/101986011-ba369180-3cce-11eb-9843-810111218e52.jpg)
 
-![어도비포토샵로고](https://user-images.githubusercontent.com/62977669/101986013-bacf2800-3cce-11eb-8d36-fbc035ec61b4.jpg)
+![포토샵어도베로고](https://user-images.githubusercontent.com/62977669/101986531-a6d8f580-3cd1-11eb-99fd-74e58e179ee2.gif)
 
 ![라즈](https://user-images.githubusercontent.com/62977669/101986014-bb67be80-3cce-11eb-9b56-494721a8a615.jpg)
 
