@@ -2,20 +2,23 @@
 ## 4조가 사용한 제품 및 프로그램
 
 ![유니티로고](https://user-images.githubusercontent.com/62977669/101986011-ba369180-3cce-11eb-9843-810111218e52.jpg)
+
 ![어도비포토샵로고](https://user-images.githubusercontent.com/62977669/101986013-bacf2800-3cce-11eb-8d36-fbc035ec61b4.jpg)
+
 ![라즈](https://user-images.githubusercontent.com/62977669/101986014-bb67be80-3cce-11eb-9b56-494721a8a615.jpg)
 
 ## 라즈베리파이를 사용해야 하는 이유
 ![라즈와서버](https://user-images.githubusercontent.com/62977669/101986230-21a11100-3cd0-11eb-8db4-7e4f0372e7d3.JPG)
 
 코로나 시대인 지금 ViiEarth라는 어플을  통해 친구들과 밖에서 만나지 않고 게임을 할 수 있도록 합니다.
-저희는 닌텐도 스위치에서 영감을 받아 라즈베리 파이가
-그 역할을 해서 서버 통신을 할 수 있도록 도와줄 것입니다.
+
+저희는 닌텐도 스위치에서 영감을 받아 라즈베리 파이가 그 역할을 해서 서버 통신을 할 수 있도록 도와줄 것입니다.
 
 ## 작품을 만드는 것에 참고한 게임
 ![어몽어스로고](https://user-images.githubusercontent.com/62977669/101986022-c28ecc80-3cce-11eb-95e1-345379eb5c5f.jpg)
 
 콘솔게임에 대한 진입장벽이 낮아져서 최근 많은 사람들이 돈을 주고 게임을 사는 것에 거리낌이 많이 사라졌습니다.
+
 그러므로 저희는 전 세계인들이 즐겨 게임한 AmongUs를 참고해서 게임 제작했습니다.
 
 
