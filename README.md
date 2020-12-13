@@ -265,7 +265,7 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 
 # VI Earth의 마지막 주차
 
-
+VI Earth 실행영상 ↓
 
 [시민이 미션을 수행과 유령이 되고나서도 미션을 수행하는 영상](https://www.youtube.com/watch?v=5ylO9dHvvvM)
 
