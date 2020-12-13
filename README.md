@@ -265,7 +265,11 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 
 # VI Earth의 마지막 주차
 
+시민이 미션을 수행과 유령이 되고나서도 미션을 수행하는 영상
 [시민 플레이 영상](https://www.youtube.com/watch?v=5ylO9dHvvvM)
-[시민 미션 클리어 실행 영상](https://www.youtube.com/watch?v=S0yuaY0fGfs&feature=youtu.be)
+
+서버 실행과 임포스터의 사보타지로 시민들을 방해하지만 시민들이 미션을 다 수행해서 이기는 영상
 [시민 승리 실행 영상](https://www.youtube.com/watch?v=Kf0kyZl4hD8)
+
+임포스터가 벤트 이동 및 사보타지 실행과 시민들을 죽이고 이기는 영상
 [임포스터 승리 실행 영상](https://www.youtube.com/watch?v=8XQ08bwazpA)
