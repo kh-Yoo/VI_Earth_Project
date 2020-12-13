@@ -265,7 +265,14 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 
 # VI Earth의 마지막 주차
 
+시민들은 미션을 수행해서 시민들의 승리로 이끌 수 있습니다.
 
+-Coin 미션-
+
+![코인](https://user-images.githubusercontent.com/62977669/102015725-9f345200-3da0-11eb-82dc-0d6bdbbe7839.JPG)
+
+-경비실 미션-
+![경비실](https://user-images.githubusercontent.com/62977669/102015727-a0657f00-3da0-11eb-8c4f-bb47ca263df1.JPG)
 ![병원미션_수행](https://user-images.githubusercontent.com/62977669/102015142-149e2380-3d9d-11eb-9b76-babe61848927.JPG)
 ![주차장_미션수행](https://user-images.githubusercontent.com/62977669/102015143-1536ba00-3d9d-11eb-89e7-58f02b211133.JPG)
 ![발전소미션수행](https://user-images.githubusercontent.com/62977669/102015126-0d771580-3d9d-11eb-8b19-0c0a5f9b4d77.JPG)
@@ -273,27 +280,43 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 ![농구장_미션수행](https://user-images.githubusercontent.com/62977669/102015128-0ea84280-3d9d-11eb-84a6-8a338e3b0c76.JPG)
 
 ![킬버튼활성화](https://user-images.githubusercontent.com/62977669/102015132-11a33300-3d9d-11eb-897e-569cd4f43bb5.JPG)
+
 ![킬하고난뒤](https://user-images.githubusercontent.com/62977669/102015133-123bc980-3d9d-11eb-895c-e9569c9ae125.JPG)
+
 ![벤트입장](https://user-images.githubusercontent.com/62977669/102015134-123bc980-3d9d-11eb-954d-9dd71a9e94c2.JPG)
+
 ![벤트입장후_다른곳이동](https://user-images.githubusercontent.com/62977669/102015135-12d46000-3d9d-11eb-86b2-02baee1bcd51.JPG)
 
+
 임포스터는 '사보타지'라는 버튼을 이용해서 시민들이 미션을 수행하지 못하도록 방해할 수 있습니다.
+
 ![사보타지맵](https://user-images.githubusercontent.com/62977669/102015137-136cf680-3d9d-11eb-82d2-57cd10e1820f.JPG)
 
+
 임포스터는 사보타지 중에 병원의 입구를 막아 시민들이 병원의 미션을 수행하지 못하도록 하고 병원에 단둘이 갇히게 만들어 킬을 할 수도 있습니다.
+
 ![사보타지벽막기](https://user-images.githubusercontent.com/62977669/102015131-0f40d900-3d9d-11eb-83a6-fafd4c11594c.JPG)
 ![사보타지벽막힘](https://user-images.githubusercontent.com/62977669/102015124-0cde7f00-3d9d-11eb-97ac-d45268537fff.JPG)
 
+
 ![원자로활성화전_](https://user-images.githubusercontent.com/62977669/102015139-149e2380-3d9d-11eb-8e34-230d35e3f2eb.JPG)
+
+
 ![원자로활성화시](https://user-images.githubusercontent.com/62977669/102015138-14058d00-3d9d-11eb-8f54-6b6e6c8cda34.JPG)
 
+
 시민은 임포스터가 킬을 한 것을 발견한 경우 모두에게 알리기 위해 시계탑에서 종을 울려 모든 유저들을 모아 투표를 한 뒤 임포스터를 처형시킬 수 있습니다.
+
 ![누군가_전원집합](https://user-images.githubusercontent.com/62977669/102015129-0ea84280-3d9d-11eb-99df-4bc8ac7d3370.JPG)
 
+
 시민이 미션을 다 수행할 시 시민이 이겼다는 패널이 등장합니다.
+
 ![시민승리시_뜨는_장면](https://user-images.githubusercontent.com/62977669/102015136-136cf680-3d9d-11eb-9d7e-2cb99f736a65.JPG)
 
+
 임포스터가 시민들을 다 죽였을 시 임포스터가 이겼다는 패널이 등장합니다.
+
 ![승리](https://user-images.githubusercontent.com/62977669/102015493-516b1a00-3d9f-11eb-9a34-6395891ee6e7.jpg)
 
 
