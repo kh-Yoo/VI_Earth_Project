@@ -299,7 +299,29 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 
 시민은 임포스터가 킬을 한 것을 발견한 경우 모두에게 알리기 위해 시계탑에서 종을 울려 모든 유저들을 모아 투표를 한 뒤 임포스터를 처형시킬 수 있습니다.
 
-![누군가_전원집합](https://user-images.githubusercontent.com/62977669/102015129-0ea84280-3d9d-11eb-99df-4bc8ac7d3370.JPG)
+-전원 집합!-
+
+![전원집합](https://user-images.githubusercontent.com/62977669/102016251-5205af80-3da3-11eb-9554-6dfa7fb4a91d.JPG)
+
+-투표하기 위한 투표창 등장-
+
+![투표창](https://user-images.githubusercontent.com/62977669/102016252-529e4600-3da3-11eb-9b93-a83b7119f954.JPG)
+
+-어떤 사람을 투표할 지 채팅으로 대화-
+
+![투표채팅창](https://user-images.githubusercontent.com/62977669/102016254-529e4600-3da3-11eb-93d5-772da6191fd1.JPG)
+
+-투표를 했다는 것을 명시-
+
+![투표했다는](https://user-images.githubusercontent.com/62977669/102016255-5336dc80-3da3-11eb-9386-9407a5d1deee.JPG)
+
+-채팅창에 플레이어들이 투표를 했다는 것을 알림-
+
+![누가투표했는지](https://user-images.githubusercontent.com/62977669/102016256-5336dc80-3da3-11eb-8f63-193f0b7ef648.JPG)
+
+-투표가 끝난 후 누가 누구에게 투표했는 지 보여줍니다-
+
+![개표](https://user-images.githubusercontent.com/62977669/102016249-516d1900-3da3-11eb-81bf-d621ca221ec2.JPG)
 
 
 시민이 미션을 다 수행할 시 시민이 이겼다는 패널이 등장합니다.
@@ -341,6 +363,7 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 임포스터는 '사보타지'라는 버튼을 이용해서 시민들이 미션을 수행하지 못하도록 방해할 수 있습니다.
 
 -사보타지 버튼 클릭시 나오는 화면-
+
 ![사보타지맵](https://user-images.githubusercontent.com/62977669/102015137-136cf680-3d9d-11eb-82d2-57cd10e1820f.JPG)
 
 
