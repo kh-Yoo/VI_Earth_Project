@@ -267,7 +267,9 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 
 ## 시민역할
 
+
 시민들은 미션을 수행해서 시민들의 승리로 이끌 수 있습니다.
+
 
 -Coin 미션-
 
@@ -297,6 +299,9 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 
 ![농구장_미션수행](https://user-images.githubusercontent.com/62977669/102015128-0ea84280-3d9d-11eb-84a6-8a338e3b0c76.JPG)
 
+
+
+
 시민은 임포스터가 킬을 한 것을 발견한 경우 모두에게 알리기 위해 시계탑에서 종을 울려 모든 유저들을 모아 투표를 한 뒤 임포스터를 처형시킬 수 있습니다.
 
 -전원 집합!-
@@ -324,11 +329,14 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 ![개표](https://user-images.githubusercontent.com/62977669/102016249-516d1900-3da3-11eb-81bf-d621ca221ec2.JPG)
 
 
+
+
 시민이 미션을 다 수행할 시 시민이 이겼다는 패널이 등장합니다.
 
 -시민 엔딩 장면-
 
 ![시민승리시_뜨는_장면](https://user-images.githubusercontent.com/62977669/102015136-136cf680-3d9d-11eb-9d7e-2cb99f736a65.JPG)
+
 
 
 ## 임포스터 역할
@@ -349,6 +357,8 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 ![유령](https://user-images.githubusercontent.com/62977669/102015962-ce978e80-3da1-11eb-9259-d8485bf0fb41.JPG)
 
 
+
+
 임포스터는 수적 불리함을 벤트라는 advantage를 이용해 먼 거리를 한 번에 이동할 수 있습니다.
 
 -벤트 이동 전 장소-
@@ -360,11 +370,15 @@ github link : https://github.com/kh6815/unity-nodejs_server/tree/master
 ![벤트입장후_다른곳이동](https://user-images.githubusercontent.com/62977669/102015135-12d46000-3d9d-11eb-86b2-02baee1bcd51.JPG)
 
 
+
+
 임포스터는 '사보타지'라는 버튼을 이용해서 시민들이 미션을 수행하지 못하도록 방해할 수 있습니다.
 
 -사보타지 버튼 클릭시 나오는 화면-
 
 ![사보타지맵](https://user-images.githubusercontent.com/62977669/102015137-136cf680-3d9d-11eb-82d2-57cd10e1820f.JPG)
+
+
 
 
 임포스터는 사보타지 중에 병원의 입구를 막아 시민들이 병원의 미션을 수행하지 못하도록 하고 병원에 단둘이 갇히게 만들어 킬을 할 수도 있습니다.
