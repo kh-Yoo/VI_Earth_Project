@@ -262,3 +262,10 @@ github link : https://github.com/qlqlf/UnitySihyung
 # VI Earth의 12주차 프로젝트 진행 사항(서버 관련)
 
 github link : https://github.com/kh6815/unity-nodejs_server/tree/master
+
+# VI Earth의 마지막 주차
+
+[시민 플레이 영상](https://www.youtube.com/watch?v=5ylO9dHvvvM)
+[시민 미션 클리어 실행 영상](https://www.youtube.com/watch?v=S0yuaY0fGfs&feature=youtu.be)
+[시민 승리 실행 영상](https://www.youtube.com/watch?v=Kf0kyZl4hD8)
+[임포스터 승리 실행 영상](https://www.youtube.com/watch?v=8XQ08bwazpA)
